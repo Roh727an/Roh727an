@@ -13,14 +13,14 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/rohan saha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rohan saha" height="30" width="40" /></a>
-<a href="https://fb.com/rohan saha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rohan saha" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/rohan-saha-646a26243" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rohan-saha-646a26243" height="30" width="40" /></a>
+<a href="https://fb.com/rohan.saha.7106670" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rohan.saha.7106670" height="30" width="40" /></a>
 <a href="https://instagram.com/roh_an727" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="roh_an727" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/c𝖔𝖉e𝖎𝖓𝖌 treς" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="c𝖔𝖉e𝖎𝖓𝖌 treς" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/rohansaha_2002" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="rohansaha_2002" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/@rohansaha1649" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@rohansaha1649" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/rohan_2002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="rohan_2002" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/rohansaha_2002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rohansaha_2002" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@rohansaha1649" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@rohansaha1649" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/roh_an727" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="roh_an727" height="30" width="40" /></a>
 </p>
 
