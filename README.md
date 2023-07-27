@@ -41,3 +41,8 @@
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="50" width="100" alt="C"  /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="50" width="100" alt="C++"  /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" width="100" alt="HTML5"  /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" width="100" alt="CSS3"  /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" width="100" alt="Javascript"  /> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" height="50" width="100" alt="Java"  /> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="50" width="100" alt="Solidity"  /> 
 |---|---|---|---|---|---|---|
 ###
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=roh727an&show_icons=true&locale=en&layout=compact" alt="roh727an" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=roh727an&show_icons=true&locale=en" alt="roh727an" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=roh727an&" alt="roh727an" /></p>
