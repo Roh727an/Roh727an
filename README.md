@@ -1,34 +1,42 @@
-<h1 align="center">Hi 👋, I'm Rohan Saha</h1>
-<h3 align="center">A Passionate Software Developer From India</h3>
-<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=roh727an&label=Profile%20views&color=0e75b6&style=flat" alt="roh727an" /> </p>
 
-- 🌱 I’m currently learning **FrontEnd**
+<h2> <em>Hey there</em> <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px><em>   good to see you...</em></h2>
+<h1 align='center'>✨ I am Rohan ✨</h1> 
 
-- 💬 Ask me about **Data Structures & Algorithm**
+## :star2: About Me :
+- I am **21 years** old :boy:, and my current residence is in :round_pushpin: _Naihati, West Bengal, India_.
+- Currently, I am pursuing **B.Tech** in **Computer Science & Engineering** from **Narula Institute of Technology**. :computer:
+- I am a 3rd year student at [Narula Institute of Technology](https://en.wikipedia.org/wiki/Narula_Institute_of_Technology). :school:
+- I have a keen interest in **Data Structure & Algorithm** and **Web Development**. :globe_with_meridians:
+- I am looking for an internship. :man_technologist:
 
-- 📫 How to reach me **coding727tree@gmail.com**
+<hr/>
 
-- ⚡ Fun fact **I am Still a Beginner**
+<h2> :mailbox: Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/rohan-saha-646a26243" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rohan-saha-646a26243" height="30" width="40" /></a>
-<a href="https://fb.com/rohan.saha.7106670" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rohan.saha.7106670" height="30" width="40" /></a>
-<a href="https://instagram.com/roh_an727" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="roh_an727" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/channel/ucofrtvxttucnloisxnyroka" target="blank"><img align="center" 
-<a href="https://www.codechef.com/users/rohansaha_2002" target="blank"><img align="center" src="https://cdn.codechef.com/sites/default/files/uploads/pictures/4affd66504e9b0069d72dddacaadda29.png" alt="rohansaha_2002" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/rohan_2002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="rohan_2002" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/rohansaha1649?hr_r=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="rohansaha1649?hr_r=1" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/rohansaha_2002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rohansaha_2002" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/roh_an727" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="roh_an727" height="30" width="40" /></a>
-</p>
+- <h3> :iphone: Social Media : </h3>
+<br clear="both">
+<div align="center">
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+| [<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" alt="linkedin logo" title="Rohan" width="110" height="50">](https://www.linkedin.com/in/rohan-saha-646a26243)  | [<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" alt="facebook logo" title="Rohan Saha" width="110" height="50">](https://www.facebook.com/rohan.saha.7106670) |  [<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" alt="instagram logo" title="roh_an727" width="110" height="50">](https://www.instagram.com/roh_an727) | [<img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg" alt="github" title="Roh727an" width="100" height="50">](https://www.github.com/Roh727an) |
+|---|---|---|---|
+</div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=roh727an&show_icons=true&locale=en&layout=compact" alt="roh727an" /></p>
+- <h3> :desktop_computer: Coding Platforms :</h3>
+<br clear="both">
+<div align="center">
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=roh727an&show_icons=true&locale=en" alt="roh727an" /></p>
+| [<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode" title="rohansaha_2002" width="100" height="50">](https://www.leetcode.com/rohansaha_2002) | [<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GeeksForGeeks" title="roh_an727" width="100" height="50">](https://auth.geeksforgeeks.org/user/roh_an727) | <img width="20" /> [<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="codeforces" title="rohansaha_2002" width="50" height="50">](https://codeforces.com/profile/rohan_2002) <img width="20" /> | [<img src="https://cdn.codechef.com/sites/default/files/uploads/pictures/4affd66504e9b0069d72dddacaadda29.png" title="rohansaha_2002" width="100" height="50">](https://www.codechef.com/users/rohansaha_2002) | <img width="20" /> [<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="hackerrank" title="rohansaha1649" width="50" height="50">](https://www.hackerrank.com/rohansaha1649?hr_r=1) <img width="20" /> |
+|---|---|---|---|---|
+</div>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=roh727an&" alt="roh727an" /></p>
+<hr/>
+
+<h2> :tophat: My Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
+
+- <h3> :books: Languages : </h3> 
+<br clear="both">
+<div align="center">
+  
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="50" width="100" alt="C"  /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="50" width="100" alt="C++"  /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" width="100" alt="HTML5"  /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" width="100" alt="CSS3"  /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" width="100" alt="Javascript"  /> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" height="50" width="100" alt="Java"  /> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="50" width="100" alt="Solidity"  /> 
+|---|---|---|---|---|---|---|
+###
