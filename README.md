@@ -2,9 +2,9 @@
 <h1 align='center'>✨ I am Rohan ✨</h1> 
 
 ## :star2: About Me :
-- I am **21 years** old :boy:, and my current residence is in :round_pushpin: _Naihati, West Bengal, India_.
+- I am **22 years** old :boy:, and my current residence is in :round_pushpin: _Naihati, West Bengal, India_.
 - Currently, I am pursuing **B.Tech** in **Computer Science & Engineering** from **Narula Institute of Technology**. :computer:
-- I am a 3rd year student at [Narula Institute of Technology](https://en.wikipedia.org/wiki/Narula_Institute_of_Technology). :school:
+- I am a Final year student at [Narula Institute of Technology](https://en.wikipedia.org/wiki/Narula_Institute_of_Technology). :school:
 - I have a keen interest in **Data Structure & Algorithm** and **Web Development**. :globe_with_meridians:
 - I am looking for an internship. :man_technologist:
 
